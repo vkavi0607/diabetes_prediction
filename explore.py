@@ -200,8 +200,8 @@ def main():
     st.markdown("""
     <div class="footer">
         © 2025 Diabetes Prediction App. All rights reserved. 
-        | <a href="https://github.com/your-repo">GitHub</a> 
-        | <a href="mailto:your-email@example.com">Contact Us</a>
+        | <a href="https://github.com/vkavi0607/diabetes_prediction">GitHub</a> 
+        | <a href="mailto:kaviyarasuv0607@gmail.com">Contact Us</a>
     </div>
     """, unsafe_allow_html=True)
 
